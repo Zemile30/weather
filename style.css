@@ -36,15 +36,16 @@ a:hover {
   font-size: 28px;
 }
 #weather .box input {
-  padding: 10px 0;
+  padding: 10px 5px;
   border-radius: 50px;
   margin-bottom: 25px;
 }
-#weather .box .btn {
+#weather .box #btn {
   background-color: #79afff;
   color: #ffffff;
   width: 100px;
   border-radius: 50px;
   font-size: 20px;
   margin-bottom: 30px;
+  padding: 12px 18px;
 }/*# sourceMappingURL=style.css.map */
